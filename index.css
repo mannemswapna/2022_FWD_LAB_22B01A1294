@@ -1,0 +1,12 @@
+.form{
+    background-color: chartreuse;
+    text-align: center;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 10px;
+}
+h3{
+    text-align: center;
+    color: brown;
+}
